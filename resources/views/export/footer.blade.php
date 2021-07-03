@@ -45,7 +45,7 @@
                                     <li>
                                     <a href="{{route('about')}}">Terms of Payments</a>
                                     </li>
-                                  
+
                                 </ul>
                             </div>
                         </div>
@@ -79,7 +79,8 @@
             </div>
             <div class="footer-bottom">
                 <div class="footer-copyright">
-                    <p style="text-align:center !important;">© 2019 Renny Exporters| All rights reserved.</p>
+                    <p style="text-align:center !important;">&copy;
+                        <span id="year"></span> Renny Exporters| All rights reserved.</p>
                 </div>
                 <ul class="footer-socials">
                     <li>
@@ -95,5 +96,9 @@
             </div>
         </div>
     </div>
+    <script>
+        var year = new Date();
+        document.getElementById('year').innerHTML = year.getFullYear();
+    </script>
     <!-- end .footer-2-->
 </footer>

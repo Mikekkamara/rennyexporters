@@ -2,7 +2,7 @@
 @section('content')
 <section>
     <!-- START REVOLUTION SLIDER 5.0-->
-    <div class="slider-1">
+     {{--  <div class="slider-1">
         <div class="rev_slider" id="js-slider" style="display:none;">
             <ul>
                 <li class="item-1 item-3" data-transition="crossfade">
@@ -12,7 +12,7 @@
                     data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']" data-width="['1000', '992', '768', '480']">Farm freshness</h3>
                     <div class="tp-caption tp-resizeme caption-2" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                     data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-10', '0', '20', '80']" data-width="['800', '800', '768', '480']" >Guaranteed Real Farm Freshness</div>
-                 
+
                 </li>
                 <li class="item-1" data-transition="crossfade">
                     <!-- MAIN IMAGE-->
@@ -35,7 +35,7 @@
              </li>
             </ul>
         </div>
-    </div>
+    </div>  --}}
 </section>
 <section>
     <div class="section grey-background p-t-100 p-b-100">
@@ -197,7 +197,7 @@
                             </div>
                             <p class="description">
                                 The  acidic pH between 6-7,moist and well-drained soils of the slopes of the Aberdare ranges provide the optimal conditions for growing the following varieties of mint:Apple mint,Pineapple Mint,Corsic Peppermint and Spearmint &nbsp; <a href="{{route('order')}}">Order Now</a>
-                              
+
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -229,7 +229,7 @@
                             <div class="blog-item-image">
                                 <a href="#">
                                     <img src="/images/new/mango5.jpg" alt="fresh-kenyan-mangoes" srcset="" id="product_img">
-                                    
+
 
                                 </a>
                             </div>
