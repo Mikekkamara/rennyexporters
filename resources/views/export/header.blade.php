@@ -13,7 +13,7 @@
                     <div class="header-login">
 
                     <a href="https://api.whatsapp.com/send?phone=254729277207">
-                            <i ></i>TEXT, CALL +254 729 277207</a>
+                            <i ></i>TEXT, CALL +254 729 277207</a> <br>
 
                         <a href="mailto: info@rennyexporters">info@rennyexporters </a>
                     </div>

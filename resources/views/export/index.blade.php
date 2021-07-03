@@ -61,7 +61,11 @@
                                     </div>
                                     <div class="content-main">
                                         <h3 class="title-content">Our Farming Model</h3>
-                                        <p class="content-content description">The emphasis is on restriction of fertilizer usage and we ensure that we use organically accepted manures to grow our products for health living.</p>
+                                        <p class="content-content description">We emphasize
+                                            on restriction of fertilizer usage and we ensure
+                                            that we use organically accepted manures to grow
+                                            our products for a healthy living. 
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="about-content-item">
@@ -70,7 +74,7 @@
                                     </div>
                                     <div class="content-main">
                                         <h3 class="title-content">Sorting & Grading</h3>
-                                        <p class="content-content description">After products reach maturity,the crops are harvested by hand picking, sorted and graded as per our international guidelines.Cleanliness is highly observed making sure that our clients get the best.
+                                        <p class="content-content description">After products reach maturity, the crops are harvested by hand picking, sorted and graded as per our international guidelines. Cleanliness is highly observed making sure that our clients get the best.
                                         </p>
                                     </div>
                                 </div>
@@ -80,7 +84,7 @@
                                     </div>
                                     <div class="content-main">
                                         <h3 class="title-content">Packing & Exporting</h3>
-                                        <p class="content-content description">Is everything now done?If yes, the assorted products are packed,customs procedures are finalized and now , we send the products to our Customers world wide using air transport to ensure freshness.</p>
+                                        <p class="content-content description">The assorted products are packed, customs procedures are finalized and now, we send the products to our Customers world wide using air transport to ensure freshness.</p>
                                     </div>
                                 </div>
                             </div>
