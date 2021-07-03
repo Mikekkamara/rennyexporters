@@ -1,0 +1,13 @@
+#product_img{
+    width: 480px;
+    height: 320px;
+}
+#cd{
+    color:#FF002C;
+}
+#content_why{
+    text-align: justify !important;
+}
+.description{
+    text-align: justify !important;
+}

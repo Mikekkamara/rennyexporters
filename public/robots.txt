@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Allow:/order/online
+Allow:/about
+Allow:/fresh-kenya-products-for-export
+Allow:/contacts
+
+
+Sitemap: http://www.rennyexporters.co.ke/sitemap.xml
