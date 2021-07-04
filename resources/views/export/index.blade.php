@@ -341,6 +341,19 @@
                         </div>
                         <!-- end .blog-item-1-->
                     </div>
+                    <div class="heading-section-1">
+                <h3>Meet the Team</h3>
+            </div> <br>
+            <div class="blog-item-1">
+                    <p class="description" >
+                        <ol style="width: 30%; margin: 0 auto;">
+                            <li><strong>Martin Nyaga</strong> - Managing Director</li> <br>
+                            <li><strong>Amos Siele</strong> – Production Manager</li> <br>
+                            <li><strong>Selina Macharia</strong> – Quality Assurance Manager</li> <br>
+                            <li><strong>Margaret Kahare</strong> – Pack House Manager</li> <br>
+                        </ol>
+                    </p> <br>
+            </div>
                 </div>
             </div>
         </div>
