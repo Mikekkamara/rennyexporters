@@ -1,6 +1,6 @@
 @extends('export.main')
 @section('content')
-    
+
 <section>
         <div class="section primary-color-background">
             <div class="container">
@@ -53,11 +53,11 @@
                                 <div class="contact-col">
                                     <p>
                                         <i class="fa fa-phone"></i>
-                                        <span>+254 - 0729- 277207</span>
+                                        <span>+254 729 277207</span>
                                     </p>
                                     <p>
                                         <i class="fa fa-envelope"></i>
-                                        <span>info@rennyexporters.co.ke</span>
+                                        <span>info@rennyexporters</span>
                                     </p>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@
                                     <div class="p-r-5 input-col-5">
                                         <input type="text" name="subject" placeholder="Subject *" required/>
                                     </div>
-                                   
+
                                 </div>
                                 <div class="input-row">
                                     <textarea placeholder="Comment *" name="message" required></textarea>
@@ -103,7 +103,7 @@
             <!-- Contact map-->
             <div class="contact-map">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.225995999883!2d36.8165834!3d-1.2903935!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa80e474be4afaf5d!2sUhuru%20Park!5e0!3m2!1sen!2ske!4v1573682300997!5m2!1sen!2ske" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="true"></iframe>
-                    
+
             </div>
             <!-- end contact map-->
         </div>

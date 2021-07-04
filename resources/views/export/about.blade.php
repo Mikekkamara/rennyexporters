@@ -1,6 +1,6 @@
 @extends('export.main')
 @section('content')
-     
+
 <section>
         <div class="section primary-color-background">
             <div class="container">
@@ -30,17 +30,59 @@
     <div class="page-content p-t-40">
         <!--.about-2-->
         <div class="about-2">
-            <div class="section cover-background p-t-50 p-b-200" style="background: url(images/new/people.jpg) center center no-repeat;"  >
+            <div class="section cover-background p-t-50 p-b-200" style="background: url(images/new/people.jpg) center center no-repeat; "  >
                 <div class="container">
                     <div class="col-md-6 ">
-                        <div class="about-content" style="color:#ffffff !important;">
+                        <div class="about-content" style="color:#fff; background:
+                        linear-gradient()!important;">
                             <p>
-                                    We are exporters of organically produced farm products ranging from horticulture products, and dairy products to a wide range of global consumers in different parts of the world to meet their nutritional needs and always aiming at exceeding our customers satisfaction</p>
-                            <h4>OUR VALUES:</h4>
+                                Renny exporters is an international exporting company of
+                                horticultural products with its operations in East Africa. <br>
+<br>
+                                    We are exporters of organically produced farm products ranging from horticulture products, and dairy products to a wide range of global consumers in different parts of the world to meet their nutritional needs and always aiming at exceeding our customers satisfaction
+                            </p>
+                            <h4>OUR VISION</h4>
                             <p>
-                                    Our value proposition is centered around a strong leadership, food safety, integrity, diligence, team work, dedication and a firm focus on quality. This strong support combined with expertise, dependable team of knowledgeable professionals and a stringent quality control program, come together to bring service and quality that excels and makes you distinctive in the market.</p>
-                            <h4>OUR GOALS:</h4>
-                            <p>To bring value from innovative products and services that distinguish you from the rest of the competition to capturing premium quality of Kenya freshness that provides safe healthy and competitive products. We are committed to enhancing your ability to be a competitive industry leader.</p>
+                                To be the leading fresh produce exporter whose ultimate
+                                goal is customer satisafaction globally.
+                            </p>
+                            <h4>MISSION STATEMENT</h4>
+                            <p>
+                                Our mission is to provide customer safe-to-eat fresh
+                                vegetables and fruits to our international markets while
+                                we establish long term relationships with our trading
+                                partners, through provision of a wide range of premium
+                                quality products that meet global food safety standards,
+                                consistently and in a timely manner.
+                            </p>
+                            <h4>CORE VALUES:</h4>
+                            <p>
+                                    {{-- Our value proposition is centered around a strong leadership, food safety, integrity, diligence, team work, dedication and a firm focus on quality. This strong support combined with expertise, dependable team of knowledgeable professionals and a stringent quality control program, come together to bring service and quality that excels and makes you distinctive in the market. --}}
+                                <ul style="list-style-type: disc">
+                                    <li>
+                                        Customer centricity: We ensure that our clients
+                                        get quality products by doing thorough checks
+                                        when sourcing our products from the farms.
+                                    </li> <br>
+                                    <li>
+                                        Integrity: We uphold the highest level of
+                                        ethical behaviour and honesty.
+                                    </li> <br>
+                                    <li>
+                                        Quality: We have developed strict quality checks
+                                        at both the farm and at pack house level.
+                                    </li> <br>
+                                    <li>
+                                        Timeliness: We ensure that our clients get their
+                                        products on or before the timeline by ensuring
+                                        there is high coordination from the farm and the
+                                        transport team.
+                                    </li>
+                                </ul>
+                            </p>
+                            {{-- <h4>OUR GOALS:</h4>
+                            <p>To bring value from innovative products and services that distinguish you from the rest of the competition to capturing premium quality of Kenya freshness that provides safe healthy and competitive products. We are committed to enhancing your ability to be a competitive industry leader.
+                            </p> --}}
                         </div>
                     </div>
                 </div>
@@ -88,12 +130,12 @@
                             </div>
                         </div>
                     </div>
-                  
+
                 </div>
                 <div class="container">
                     <!-- Heading Section-->
                         <h3 style="text-align:center;">Our Payment Terms</h3>
-                   
+
                     <div class="why-choose-us-list m-t-40">
                         <div class="row">
                             <div class="col-md-3 col-sm-6">
@@ -111,7 +153,7 @@
                                 <div class="why-choose-us-1">
                                     <h3 class="why-choose-us-title">Cost Insurance and Freight(CIF)</h3>
                                     <p class="why-choose-us-content">
-                                          We accept CIF under certain agreed terms ,however a deposit of 40% must be made for this type of transaction to take place
+                                        We accept CIF under certain agreed terms ,however a deposit of 40% must be made for this type of transaction to take place
                                     </p>
                                 </div>
                                 <!-- end .why-choose-us-1-->
@@ -121,7 +163,7 @@
                                 <div class="why-choose-us-1">
                                     <h3 class="why-choose-us-title">Free On Board (FOB)</h3>
                                     <p class="why-choose-us-content">
-                                         We also accomodate FOB under certain discussed conditions with our clients
+                                        We also accomodate FOB under certain discussed conditions with our clients
                                     </p>
                                 </div>
                                 <!-- end .why-choose-us-1-->
@@ -131,17 +173,17 @@
                                 <div class="why-choose-us-1">
                                     <h3 class="why-choose-us-title">TT</h3>
                                     <p class="why-choose-us-content">
-                                         Renny exporters also accept Telegraphic Transfers
+                                        Renny exporters also accept Telegraphic Transfers
                                     </p>
                                 </div>
                                 <!-- end .why-choose-us-1-->
                             </div>
                         </div>
                     </div>
-                  
+
                 </div>
             </div>
         </section>
-        
+
     </div>
 @endsection
