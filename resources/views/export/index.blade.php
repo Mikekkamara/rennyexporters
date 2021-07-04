@@ -42,7 +42,7 @@
         <div class="container">
             <!-- Heading Section-->
             <div class="heading-section-1">
-                <h3>Why we are the best</h3>
+                <h3>Our Edge</h3>
             </div>
             <div class="m-t-50">
                 <!-- .about-1-->
@@ -64,7 +64,7 @@
                                         <p class="content-content description">We emphasize
                                             on restriction of fertilizer usage and we ensure
                                             that we use organically accepted manures to grow
-                                            our products for a healthy living. 
+                                            our products for a healthy living.
                                         </p>
                                     </div>
                                 </div>
@@ -73,7 +73,7 @@
                                         <img src="/images/icons/ic-about-02.png" alt="about icon" />
                                     </div>
                                     <div class="content-main">
-                                        <h3 class="title-content">Sorting & Grading</h3>
+                                        <h3 class="title-content">Post harvest management - Sorting & Grading</h3>
                                         <p class="content-content description">After products reach maturity, the crops are harvested by hand picking, sorted and graded as per our international guidelines. Cleanliness is highly observed making sure that our clients get the best.
                                         </p>
                                     </div>
@@ -102,6 +102,32 @@
         <div class="container">
             <div class="heading-section-1">
                 <h3>Our Products</h3>
+            </div> <br>
+            <div class="blog-item-1">
+                    <p class="description">
+                        The well drained nutritious soils on the slopes of Mt. Kenya
+                        provides us with the optimal climatic condition to grow the
+                        best variety of horticultural produce.
+                    </p> <br>
+                    <p class="description">
+                        Our products include:
+                        <strong></strong>
+                        <ul style="list-style-type: disc">
+                            <li>
+                                <strong>Herbs:</strong> basil, thyme, rosemary, mint, tarragon, sage,
+                                oregano and chives.
+                            </li> <br>
+                            <li>
+                                <strong>Fruits:</strong> Purple passion, hass avocado, fuerte avocado and
+                                mangoes(apple, ngowe, tommy, kent).
+                            </li> <br>
+                            <li>
+                                <strong>Vegetables:</strong> Green chillies, red chillies, okra, haricot
+                                beans, snow peas, snap peas, hot pepper, red cabbage and
+                                malow.
+                            </li> <br><br>
+                        </ul>
+                    </p>
             </div>
             <div class="last-blog-list m-t-50">
                 <div class="row">
@@ -119,7 +145,10 @@
                                 </h3>
                             </div>
                             <p class="description">
-                            The well drained nutritious soils on the slopes of Mt.Kenya provides us with the optimal climatic condition to organically grow the best varieties of basil for the export market &nbsp; <a href="{{route('order')}}">Order Now</a>
+                            Annual herb of the mint family <strong>(Lamiaceae)</strong>
+                            grown for its aromatic leaves. The most common use of basil
+                            is for cooking for example in tomato sauce, pesto and vinegar.
+                            <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -139,7 +168,17 @@
                                 </h3>
                             </div>
                             <p class="description">
-                                We specialize in growing both types of chives and once you get a hold onto these fresh Kenyan chives that we provide, you can start getting creative in the kitchen. Owing to its position on the equator, Kenya has the perfect conditions for growing chives  &nbsp; <a href="{{route('order')}}">Order Now</a>
+                                Chives are green herbs with long, green stems that are
+                                used for flavoring a dish at the end of cooking or as a
+                                garnish. They are perfect to add to soups, dips, mashed
+                                or baked potatoes, fish, seafood dishes and omelets.
+                                Garlic chives are rich in Vitamin C, which prevents common
+                                cold and fever. it is also rich in riboflavin, potassium, vitamin A, iron, thiamin, and beta carotene.
+                                These elements help in blood count increase, maintaining blood pressure, and increasing immunity power. Owing to
+                                its position on the equator, Kenya has the perfect
+                                conditions for growing chives: longer shelf life and
+                                superior quality.
+                                <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -159,7 +198,14 @@
                                 </h3>
                             </div>
                             <p class="description">
-                                It’s a perennial herb with many branches with pink flowers loves well drained with soils with a slightly alkaline ph and 6-8hrs sunlight  exposure makes Kenya  ideal for producing the best thyme for the export market. &nbsp; <a href="{{route('order')}}">Order Now</a>
+                                Thyme is a herb. The flowers, leaves, and oil are used
+                                as medicine. Thyme is typically used in savory dishes like
+                                braised or roasted meat, vegetables or fish, as well as in
+                                savory baking. It can also be used to add flavor and depth to marinades, soups and stocks, cocktail elements, and teas. It is a perennial herb with many branches with
+                                pink flowers. Thyme loves 6-8 hours of sunlight exposure,
+                                making Kenya ideal for producing the best thyme for the
+                                export market.
+                                <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -180,7 +226,15 @@
                                 </h3>
                             </div>
                             <p class="description">
-                              Kenyan  regions like Imenti,Kikambala,Murang'a provide the basic growth conditions inclusive of loamy soil with an alkaline PH of 6 to 7 and warm weather with at least eight hours of daily sunlight making Kenya the best producers of organic Rosemary. &nbsp; <a href="{{route('order')}}">Order Now</a>
+                                Rosemary is a fragrant evergreen herb native to the
+                                Mediterranean. It is used as a culinary condiment, to
+                                make bodily perfumes, and for its potential health
+                                benefits. The leaves are often used in cooking. Possible
+                                health benefits include improved concentration, digestion, and brain aging. Kenyan regions like Imenti,
+                                Kikambala and Murang'a provide the basic growth conditions
+                                inclusive of loamy soil with an alkaline pH of 6-7 and
+                                warm weather with atleast 8 hours of daily sunlight making Kenya the best producers of organic rosemary.
+                                <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -200,7 +254,7 @@
                                 </h3>
                             </div>
                             <p class="description">
-                                The  acidic pH between 6-7,moist and well-drained soils of the slopes of the Aberdare ranges provide the optimal conditions for growing the following varieties of mint:Apple mint,Pineapple Mint,Corsic Peppermint and Spearmint &nbsp; <a href="{{route('order')}}">Order Now</a>
+                                The  acidic pH between 6-7, moist and well-drained soils of the slopes of the Aberdare ranges provide the optimal conditions for growing the following varieties of mint: Apple mint, Pineapple Mint, Corsic Peppermint and Spearmint &nbsp; <a href="{{route('order')}}">Order Now</a>
 
                             </p>
                         </div>
@@ -233,8 +287,6 @@
                             <div class="blog-item-image">
                                 <a href="#">
                                     <img src="/images/new/mango5.jpg" alt="fresh-kenyan-mangoes" srcset="" id="product_img">
-
-
                                 </a>
                             </div>
                             <div class="blog-item-title">
@@ -244,7 +296,7 @@
                                 </h3>
                             </div>
                             <p class="description">
-                             Grown in the hot climatic areas of Coastal and Eastern part of Kenya provides our mangoes the best climatic conditions for increasing their sucrose content.This makes our mangoes best for the export market.our varieties include Kent,Apple,Ngowe and Tommy mangoes. &nbsp; <a href="{{route('order')}}">Order Now</a>
+                            Grown in the hot climatic areas of Coastal and Eastern part of Kenya provides our mangoes the best climatic conditions for increasing their sucrose content. This makes our mangoes best for the export market. Our varieties include Kent, Apple, Ngowe and Tommy mangoes. &nbsp; <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -264,7 +316,7 @@
                                 </h3>
                             </div>
                             <p class="description">
-                                Whether its Hass,Fuerte,Nabal or Puebla Renny exporters got you covered.With the great soils and climatic conditons of the eastern,western and central regions of Kenya,we provide the best quality of varieties for the export market. &nbsp; <a href="{{route('order')}}">Order Now</a>
+                                Whether its Hass, Fuerte, Nabal or Puebla, Renny exporters got you covered. With the great soils and climatic conditons of the eastern, western and central regions of Kenya, we provide the best quality of varieties for the export market. &nbsp; <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->
@@ -284,7 +336,7 @@
                                 </h3>
                             </div>
                             <p class="description">
-                               We are the expirienced exporters of this perrenial fruit.Our main varieties are purple passion and yellow passion.The deep well drained soils with a PH range of 6.0-7.0. and a temperature range of between 18-28 degrees in the Central and Westen parts of Kenya makes us the go to provides of this fruit for the export market. &nbsp; <a href="{{route('order')}}">Order Now</a>
+                            We are the expirienced exporters of this perrenial fruit. Our main varieties are purple passion and yellow passion.The deep well drained soils with a PH range of 6.0-7.0. and a temperature range of between 18-28 degrees in the Central and Westen parts of Kenya makes us the go to provides of this fruit for the export market. &nbsp; <a href="{{route('order')}}">Order Now</a>
                             </p>
                         </div>
                         <!-- end .blog-item-1-->

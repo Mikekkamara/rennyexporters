@@ -1,6 +1,6 @@
 @extends('export.main')
 @section('content')
-    
+
 <section>
         <div class="section white-background p-t-100 p-b-80">
             <div class="container">
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        
+
                         <div class="col-md-4">
                             <!-- .blog-item-1-->
                             <div class="blog-item-1">
@@ -107,7 +107,7 @@
                                 <p class="description">
                                     Kenya sugar snaps are grown on the slopes of Mt Kenya, which provide ideal conditions growth conditions.Because the temperature varies with altitude, these peas are located on mountain slopes at the ideal temperature.The optimal climatic conditions help Kenya sugar snaps to thrive, making Kenya an ideal choice for importers of quality sugar snaps. &nbsp; <a href="{{route('order')}}">Order Now</a>
 
-                                  
+
                                 </p>
                             </div>
                             <!-- end .blog-item-1-->
@@ -133,10 +133,10 @@
                             </div>
                             <!-- end .blog-item-1-->
                         </div>
-                    
+
                     </div>
                     <div class="row">
-                  
+
                         <div class="col-md-4">
                             <!-- .blog-item-1-->
                             <div class="blog-item-1">
@@ -158,7 +158,7 @@
                             <!-- end .blog-item-1-->
                         </div>
                     </div>
-                   
+                
                 </div>
             </div>
         </div>

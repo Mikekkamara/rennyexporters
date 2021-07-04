@@ -67,12 +67,13 @@
                             </li>
                             <li>
                                 <i class="fa fa-phone"></i>
-                                <span>+254 - 0729- 277207</span>
+                                <span>+254 729 277207</span>
                             </li>
                             <li>
                                 <i class="fa fa-envelope"></i>
-                                <span> info@rennyexporters.co.ke</span>
+                                <span> info@rennyexporters</span>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
