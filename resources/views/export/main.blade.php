@@ -92,14 +92,14 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.html">
     <script src="/js/modernizr-custom.js"></script>
-    {{-- <script data-ad-client="ca-pub-3703923616001176" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> --}}
+     <script data-ad-client="ca-pub-3703923616001176" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
 </head>
 
 <body>
     <!-- page load-->
-    {{-- <div class="page-loader">
+     <div class="page-loader">
         <div class="loader"></div>
-    </div> --}}
+    </div>
 
  @include('export.header')
    @include('export.navbar')

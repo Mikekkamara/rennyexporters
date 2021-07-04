@@ -2,7 +2,7 @@
 @section('content')
 <section>
     <!-- START REVOLUTION SLIDER 5.0-->
-     {{--  <div class="slider-1">
+       <div class="slider-1">
         <div class="rev_slider" id="js-slider" style="display:none;">
             <ul>
                 <li class="item-1 item-3" data-transition="crossfade">
@@ -35,7 +35,7 @@
              </li>
             </ul>
         </div>
-    </div>  --}}
+    </div>
 </section>
 <section>
     <div class="section grey-background p-t-100 p-b-100">
